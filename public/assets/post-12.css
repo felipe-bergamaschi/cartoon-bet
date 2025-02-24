@@ -1,0 +1,2921 @@
+.elementor-12 .elementor-element.elementor-element-c445fb4 {
+  --display: flex;
+  --min-height: 700px;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --justify-content: flex-start;
+  --background-transition: 0.3s;
+  --padding-block-start: 0px;
+  --padding-block-end: 0px;
+  --padding-inline-start: 0px;
+  --padding-inline-end: 0px;
+}
+.elementor-12 .elementor-element.elementor-element-fc5fcc3 {
+  --display: flex;
+  --flex-direction: row;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --container-widget-height: 100%;
+  --container-widget-flex-grow: 1;
+  --container-widget-align-self: stretch;
+  --align-items: center;
+  --background-transition: 0.3s;
+  --padding-block-start: 5rem;
+  --padding-block-end: 1rem;
+  --padding-inline-start: 1.25rem;
+  --padding-inline-end: 1.25rem;
+}
+.elementor-12
+  .elementor-element.elementor-element-fc5fcc3:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-12
+  .elementor-element.elementor-element-fc5fcc3
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(190deg, #19142f 0%, #19142f 100%);
+}
+.elementor-12 .elementor-element.elementor-element-fc5fcc3,
+.elementor-12 .elementor-element.elementor-element-fc5fcc3::before {
+  --border-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-edf64ba {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-edf64ba.e-con {
+  --flex-grow: 0;
+  --flex-shrink: 0;
+}
+.elementor-12 .elementor-element.elementor-element-f586a10 {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-f586a10.e-con {
+  --flex-grow: 0;
+  --flex-shrink: 0;
+}
+.elementor-12 .elementor-element.elementor-element-a055a45 {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-a055a45.e-con {
+  --flex-grow: 0;
+  --flex-shrink: 0;
+}
+.elementor-12 .elementor-element.elementor-element-95e60b0 {
+  text-align: left;
+}
+.elementor-12 .elementor-element.elementor-element-93ad5b4 {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-menu-toggle {
+  margin-left: auto;
+}
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-nav-menu
+  .elementor-item {
+  font-family: "Outfit", Sans-serif;
+  font-weight: 300;
+}
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-nav-menu--main
+  .elementor-item {
+  color: #ffffff;
+  fill: #ffffff;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-nav-menu--main
+  .elementor-item:hover,
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-nav-menu--main
+  .elementor-item.elementor-item-active,
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-nav-menu--main
+  .elementor-item.highlighted,
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-nav-menu--main
+  .elementor-item:focus {
+  color: var(--e-global-color-text);
+  fill: var(--e-global-color-text);
+}
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-nav-menu--main
+  .elementor-item.elementor-item-active {
+  color: #000000;
+}
+.elementor-12 .elementor-element.elementor-element-ca30b41 {
+  --e-nav-menu-horizontal-menu-item-margin: calc(18px / 2);
+  width: auto;
+  max-width: auto;
+}
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal)
+  .elementor-nav-menu
+  > li:not(:last-child) {
+  margin-bottom: 18px;
+}
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-nav-menu--dropdown
+  a:hover,
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-nav-menu--dropdown
+  a.elementor-item-active,
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-nav-menu--dropdown
+  a.highlighted {
+  background-color: var(--e-global-color-primary);
+}
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-nav-menu--dropdown
+  a.elementor-item-active {
+  color: #000000;
+  background-color: var(--e-global-color-primary);
+}
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  div.elementor-menu-toggle {
+  color: #ffffff;
+}
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  div.elementor-menu-toggle
+  svg {
+  fill: #ffffff;
+}
+.elementor-12 .elementor-element.elementor-element-ca30b41.elementor-element {
+  --flex-grow: 0;
+  --flex-shrink: 0;
+}
+.elementor-12 .elementor-element.elementor-element-f75a6fd {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-f75a6fd.e-con {
+  --flex-grow: 0;
+  --flex-shrink: 0;
+}
+.elementor-12 .elementor-element.elementor-element-544d706 {
+  text-align: left;
+}
+.elementor-12 .elementor-element.elementor-element-03fabaf {
+  --display: flex;
+  --flex-direction: row;
+  --container-widget-width: initial;
+  --container-widget-height: 100%;
+  --container-widget-flex-grow: 1;
+  --container-widget-align-self: stretch;
+  --justify-content: flex-end;
+  --background-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-41ee4fe .elementor-button {
+  font-family: "SF UI Display", Sans-serif;
+  font-weight: 500;
+  background-color: #ff4c3e00;
+}
+.elementor-12 .elementor-element.elementor-element-a9a1b5a .elementor-button {
+  font-family: "SF UI Display", Sans-serif;
+  font-weight: 500;
+  background-color: #ff4c3e00;
+}
+.elementor-12 .elementor-element.elementor-element-be2806d .elementor-button {
+  font-family: "SF UI Display", Sans-serif;
+  font-weight: 500;
+  border-style: none;
+  border-radius: 100px 100px 100px 100px;
+  padding: 15px 40px 15px 40px;
+}
+.elementor-12
+  .elementor-element.elementor-element-be2806d
+  .elementor-button:hover,
+.elementor-12
+  .elementor-element.elementor-element-be2806d
+  .elementor-button:focus {
+  color: #050c15;
+}
+.elementor-12
+  .elementor-element.elementor-element-be2806d
+  .elementor-button:hover
+  svg,
+.elementor-12
+  .elementor-element.elementor-element-be2806d
+  .elementor-button:focus
+  svg {
+  fill: #050c15;
+}
+.elementor-12 .elementor-element.elementor-element-b042f54 {
+  --display: flex;
+  --flex-direction: row;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --container-widget-height: 100%;
+  --container-widget-flex-grow: 1;
+  --container-widget-align-self: stretch;
+  --justify-content: center;
+  --align-items: center;
+  --background-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-e2a18dd {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-12
+  .elementor-element.elementor-element-c3d9a32
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "SF UI Display", Sans-serif;
+  font-weight: 300;
+}
+.elementor-12 .elementor-element.elementor-element-c3d9a32 {
+  width: var(--container-widget-width, 480px);
+  max-width: 480px;
+  --container-widget-width: 480px;
+  --container-widget-flex-grow: 0;
+}
+.elementor-12 .elementor-element.elementor-element-6246249 {
+  text-align: center;
+}
+.elementor-12 .elementor-element.elementor-element-6246249 img {
+  width: 800px;
+  max-width: 800px;
+}
+.elementor-12
+  .elementor-element.elementor-element-6246249
+  > .elementor-widget-container {
+  margin: -4rem 0rem 0rem -10rem;
+}
+.elementor-12 .elementor-element.elementor-element-1ba59c7 {
+  color: #ffffffbf;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 1.3em;
+  width: var(--container-widget-width, 480px);
+  max-width: 480px;
+  --container-widget-width: 480px;
+  --container-widget-flex-grow: 0;
+}
+.elementor-12 .elementor-element.elementor-element-368cebd .elementor-button {
+  font-family: "SF UI Display", Sans-serif;
+  font-weight: 500;
+  border-style: none;
+  border-radius: 100px 100px 100px 100px;
+  padding: 15px 40px 15px 40px;
+}
+.elementor-12
+  .elementor-element.elementor-element-368cebd
+  .elementor-button:hover,
+.elementor-12
+  .elementor-element.elementor-element-368cebd
+  .elementor-button:focus {
+  color: #050c15;
+}
+.elementor-12
+  .elementor-element.elementor-element-368cebd
+  .elementor-button:hover
+  svg,
+.elementor-12
+  .elementor-element.elementor-element-368cebd
+  .elementor-button:focus
+  svg {
+  fill: #050c15;
+}
+.elementor-12 .elementor-element.elementor-element-794e6aa {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-701afa7 {
+  text-align: center;
+}
+.elementor-12 .elementor-element.elementor-element-701afa7 img {
+  width: 800px;
+  max-width: 800px;
+}
+.elementor-12
+  .elementor-element.elementor-element-701afa7
+  > .elementor-widget-container {
+  margin: -4rem 0rem 0rem -5rem;
+}
+.elementor-12 .elementor-element.elementor-element-dca1054 {
+  --display: flex;
+  --flex-direction: row;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --container-widget-height: 100%;
+  --container-widget-flex-grow: 1;
+  --container-widget-align-self: stretch;
+  --justify-content: center;
+  --align-items: center;
+  --background-transition: 0.3s;
+  --padding-block-start: 0rem;
+  --padding-block-end: 5rem;
+  --padding-inline-start: 1.25rem;
+  --padding-inline-end: 1.25rem;
+}
+.elementor-12 .elementor-element.elementor-element-de01981 {
+  --display: flex;
+  --align-items: center;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --gap: 40px 40px;
+  --background-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-e672d5c {
+  --display: flex;
+  --align-items: center;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --gap: 5px 5px;
+  --background-transition: 0.3s;
+  --padding-block-start: 0px;
+  --padding-block-end: 0px;
+  --padding-inline-start: 0px;
+  --padding-inline-end: 0px;
+}
+.elementor-12 .elementor-element.elementor-element-750b869 {
+  text-align: center;
+}
+.elementor-12
+  .elementor-element.elementor-element-750b869
+  .elementor-heading-title {
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 2.4px;
+}
+.elementor-12 .elementor-element.elementor-element-8c8f083 {
+  text-align: center;
+  width: var(--container-widget-width, 370px);
+  max-width: 370px;
+  --container-widget-width: 370px;
+  --container-widget-flex-grow: 0;
+}
+.elementor-12
+  .elementor-element.elementor-element-8c8f083
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "SF UI Display", Sans-serif;
+  font-weight: 300;
+}
+.elementor-12 .elementor-element.elementor-element-136107d {
+  text-align: center;
+  color: #ffffffbf;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1.125rem;
+  font-weight: 300;
+  line-height: 1.3em;
+  width: var(--container-widget-width, 900px);
+  max-width: 900px;
+  --container-widget-width: 900px;
+  --container-widget-flex-grow: 0;
+}
+.elementor-12 .elementor-element.elementor-element-7bd041c {
+  --display: flex;
+  --flex-direction: row;
+  --container-widget-width: initial;
+  --container-widget-height: 100%;
+  --container-widget-flex-grow: 1;
+  --container-widget-align-self: stretch;
+  --justify-content: space-around;
+  --background-transition: 0.3s;
+  --border-radius: 10px 10px 10px 10px;
+  --padding-block-start: 1.5rem;
+  --padding-block-end: 1.5rem;
+  --padding-inline-start: 1.5rem;
+  --padding-inline-end: 1.5rem;
+}
+.elementor-12
+  .elementor-element.elementor-element-7bd041c:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-12
+  .elementor-element.elementor-element-7bd041c
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(174deg, #120e1e 0%, #0e101f 100%);
+}
+.elementor-12 .elementor-element.elementor-element-7bd041c,
+.elementor-12 .elementor-element.elementor-element-7bd041c::before {
+  --border-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-0686d8d {
+  --icon-box-icon-margin: 15px;
+  width: var(--container-widget-width, 230px);
+  max-width: 230px;
+  --container-widget-width: 230px;
+  --container-widget-flex-grow: 0;
+}
+.elementor-12
+  .elementor-element.elementor-element-0686d8d
+  .elementor-icon-box-title {
+  margin-bottom: 5px;
+  color: #ffffff;
+}
+.elementor-12 .elementor-element.elementor-element-0686d8d .elementor-icon {
+  font-size: 40px;
+}
+.elementor-12
+  .elementor-element.elementor-element-0686d8d
+  .elementor-icon-box-title,
+.elementor-12
+  .elementor-element.elementor-element-0686d8d
+  .elementor-icon-box-title
+  a {
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 0.875rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 1.4px;
+}
+.elementor-12 .elementor-element.elementor-element-58dc384 {
+  --icon-box-icon-margin: 15px;
+  width: var(--container-widget-width, 230px);
+  max-width: 230px;
+  --container-widget-width: 230px;
+  --container-widget-flex-grow: 0;
+}
+.elementor-12
+  .elementor-element.elementor-element-58dc384
+  .elementor-icon-box-title {
+  margin-bottom: 5px;
+  color: #ffffff;
+}
+.elementor-12 .elementor-element.elementor-element-58dc384 .elementor-icon {
+  font-size: 40px;
+}
+.elementor-12
+  .elementor-element.elementor-element-58dc384
+  .elementor-icon-box-title,
+.elementor-12
+  .elementor-element.elementor-element-58dc384
+  .elementor-icon-box-title
+  a {
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 0.875rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 1.4px;
+}
+.elementor-12 .elementor-element.elementor-element-309856d {
+  --icon-box-icon-margin: 15px;
+  width: var(--container-widget-width, 230px);
+  max-width: 230px;
+  --container-widget-width: 230px;
+  --container-widget-flex-grow: 0;
+}
+.elementor-12
+  .elementor-element.elementor-element-309856d
+  .elementor-icon-box-title {
+  margin-bottom: 5px;
+  color: #ffffff;
+}
+.elementor-12 .elementor-element.elementor-element-309856d .elementor-icon {
+  font-size: 40px;
+}
+.elementor-12
+  .elementor-element.elementor-element-309856d
+  .elementor-icon-box-title,
+.elementor-12
+  .elementor-element.elementor-element-309856d
+  .elementor-icon-box-title
+  a {
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 0.875rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 1.4px;
+}
+.elementor-12 .elementor-element.elementor-element-0894f8c {
+  --icon-box-icon-margin: 15px;
+  width: var(--container-widget-width, 230px);
+  max-width: 230px;
+  --container-widget-width: 230px;
+  --container-widget-flex-grow: 0;
+}
+.elementor-12
+  .elementor-element.elementor-element-0894f8c
+  .elementor-icon-box-title {
+  margin-bottom: 5px;
+  color: #ffffff;
+}
+.elementor-12 .elementor-element.elementor-element-0894f8c .elementor-icon {
+  font-size: 40px;
+}
+.elementor-12
+  .elementor-element.elementor-element-0894f8c
+  .elementor-icon-box-title,
+.elementor-12
+  .elementor-element.elementor-element-0894f8c
+  .elementor-icon-box-title
+  a {
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 0.875rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 1.4px;
+}
+.elementor-12 .elementor-element.elementor-element-d41f592 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: 100%;
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --background-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-5a44e55 {
+  --display: flex;
+  --flex-direction: row;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --container-widget-height: 100%;
+  --container-widget-flex-grow: 1;
+  --container-widget-align-self: stretch;
+  --align-items: center;
+  --background-transition: 0.3s;
+  --padding-block-start: 2rem;
+  --padding-block-end: 0rem;
+  --padding-inline-start: 0rem;
+  --padding-inline-end: 0rem;
+}
+.elementor-12 .elementor-element.elementor-element-d67086b {
+  --display: flex;
+  --gap: 40px 40px;
+  --background-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-d67086b.e-con {
+  --flex-grow: 0;
+  --flex-shrink: 0;
+}
+.elementor-12 .elementor-element.elementor-element-1d83cd2 img {
+  width: 600px;
+  max-width: 600px;
+}
+.elementor-12
+  .elementor-element.elementor-element-1d83cd2
+  > .elementor-widget-container {
+  margin: 0rem -10rem 0rem 0rem;
+}
+.elementor-12 .elementor-element.elementor-element-1d83cd2 {
+  z-index: 100;
+}
+.elementor-12 .elementor-element.elementor-element-199b99a {
+  --display: flex;
+  --background-transition: 0.3s;
+  --padding-block-start: 6rem;
+  --padding-block-end: 6rem;
+  --padding-inline-start: 1.25rem;
+  --padding-inline-end: 1.25rem;
+}
+.elementor-12 .elementor-element.elementor-element-f7f359e {
+  --display: flex;
+  --gap: 5px 5px;
+  --background-transition: 0.3s;
+  --margin-block-start: 0px;
+  --margin-block-end: 30px;
+  --margin-inline-start: 0px;
+  --margin-inline-end: 0px;
+  --padding-block-start: 0px;
+  --padding-block-end: 0px;
+  --padding-inline-start: 0px;
+  --padding-inline-end: 0px;
+}
+.elementor-12
+  .elementor-element.elementor-element-d0d8f67
+  .elementor-heading-title {
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 2.4px;
+}
+.elementor-12 .elementor-element.elementor-element-1877a27 {
+  text-align: left;
+  width: var(--container-widget-width, 370px);
+  max-width: 370px;
+  --container-widget-width: 370px;
+  --container-widget-flex-grow: 0;
+}
+.elementor-12
+  .elementor-element.elementor-element-1877a27
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "SF UI Display", Sans-serif;
+  font-weight: 300;
+}
+.elementor-12 .elementor-element.elementor-element-1202918 {
+  --display: flex;
+  --background-transition: 0.3s;
+  border-style: solid;
+  --border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  --border-block-start-width: 0px;
+  --border-inline-end-width: 0px;
+  --border-block-end-width: 0px;
+  --border-inline-start-width: 0px;
+  border-color: #ff4c3e;
+  --border-color: #ff4c3e;
+  --border-radius: 0px 0px 10px 10px;
+  --padding-block-start: 2rem;
+  --padding-block-end: 2rem;
+  --padding-inline-start: 2rem;
+  --padding-inline-end: 2rem;
+}
+.elementor-12
+  .elementor-element.elementor-element-1202918:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-12
+  .elementor-element.elementor-element-1202918
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(180deg, #120e1e 0%, #0e101f 100%);
+}
+.elementor-12 .elementor-element.elementor-element-1202918,
+.elementor-12 .elementor-element.elementor-element-1202918::before {
+  --border-transition: 0.3s;
+}
+.elementor-12
+  .elementor-element.elementor-element-9f26b4a
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.elementor-12 .elementor-element.elementor-element-e6c00ed {
+  color: #fcfeffbf;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.elementor-12
+  .elementor-element.elementor-element-e6c00ed
+  > .elementor-widget-container {
+  margin: 1rem 0rem 0rem 0rem;
+}
+.elementor-12 .elementor-element.elementor-element-4ee988b {
+  --display: flex;
+  --background-transition: 0.3s;
+  border-style: solid;
+  --border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  --border-block-start-width: 0px;
+  --border-inline-end-width: 0px;
+  --border-block-end-width: 0px;
+  --border-inline-start-width: 0px;
+  border-color: #ff4c3e;
+  --border-color: #ff4c3e;
+  --border-radius: 0px 0px 10px 10px;
+  --padding-block-start: 2rem;
+  --padding-block-end: 2rem;
+  --padding-inline-start: 2rem;
+  --padding-inline-end: 2rem;
+}
+.elementor-12
+  .elementor-element.elementor-element-4ee988b:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-12
+  .elementor-element.elementor-element-4ee988b
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(180deg, #120e1e 0%, #0e101f 100%);
+}
+.elementor-12 .elementor-element.elementor-element-4ee988b,
+.elementor-12 .elementor-element.elementor-element-4ee988b::before {
+  --border-transition: 0.3s;
+}
+.elementor-12
+  .elementor-element.elementor-element-40bb81c
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.elementor-12 .elementor-element.elementor-element-266c8c5 {
+  color: #fcfeffbf;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.elementor-12
+  .elementor-element.elementor-element-266c8c5
+  > .elementor-widget-container {
+  margin: 1rem 0rem 0rem 0rem;
+}
+.elementor-12 .elementor-element.elementor-element-682b2be {
+  --display: flex;
+  --background-transition: 0.3s;
+  border-style: solid;
+  --border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  --border-block-start-width: 0px;
+  --border-inline-end-width: 0px;
+  --border-block-end-width: 0px;
+  --border-inline-start-width: 0px;
+  border-color: #ff4c3e;
+  --border-color: #ff4c3e;
+  --border-radius: 0px 0px 10px 10px;
+  --padding-block-start: 2rem;
+  --padding-block-end: 2rem;
+  --padding-inline-start: 2rem;
+  --padding-inline-end: 2rem;
+}
+.elementor-12
+  .elementor-element.elementor-element-682b2be:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-12
+  .elementor-element.elementor-element-682b2be
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(180deg, #120e1e 0%, #0e101f 100%);
+}
+.elementor-12 .elementor-element.elementor-element-682b2be,
+.elementor-12 .elementor-element.elementor-element-682b2be::before {
+  --border-transition: 0.3s;
+}
+.elementor-12
+  .elementor-element.elementor-element-894fbf5
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.elementor-12 .elementor-element.elementor-element-408d394 {
+  color: #fcfeffbf;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.elementor-12
+  .elementor-element.elementor-element-408d394
+  > .elementor-widget-container {
+  margin: 1rem 0rem 0rem 0rem;
+}
+.elementor-12 .elementor-element.elementor-element-d30e3e2 {
+  --display: flex;
+  --background-transition: 0.3s;
+  border-style: solid;
+  --border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  --border-block-start-width: 0px;
+  --border-inline-end-width: 0px;
+  --border-block-end-width: 0px;
+  --border-inline-start-width: 0px;
+  border-color: #ff4c3e;
+  --border-color: #ff4c3e;
+  --border-radius: 0px 0px 10px 10px;
+  --padding-block-start: 2rem;
+  --padding-block-end: 2rem;
+  --padding-inline-start: 2rem;
+  --padding-inline-end: 2rem;
+}
+.elementor-12
+  .elementor-element.elementor-element-d30e3e2:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-12
+  .elementor-element.elementor-element-d30e3e2
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(180deg, #120e1e 0%, #0e101f 100%);
+}
+.elementor-12 .elementor-element.elementor-element-d30e3e2,
+.elementor-12 .elementor-element.elementor-element-d30e3e2::before {
+  --border-transition: 0.3s;
+}
+.elementor-12
+  .elementor-element.elementor-element-9ea62df
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.elementor-12 .elementor-element.elementor-element-53ea903 {
+  color: #fcfeffbf;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.elementor-12
+  .elementor-element.elementor-element-53ea903
+  > .elementor-widget-container {
+  margin: 1rem 0rem 0rem 0rem;
+}
+.elementor-12 .elementor-element.elementor-element-62f9bab {
+  --display: flex;
+  --background-transition: 0.3s;
+  border-style: solid;
+  --border-style: solid;
+  border-width: 0px 0px 0px 0px;
+  --border-block-start-width: 0px;
+  --border-inline-end-width: 0px;
+  --border-block-end-width: 0px;
+  --border-inline-start-width: 0px;
+  border-color: #ff4c3e;
+  --border-color: #ff4c3e;
+  --border-radius: 0px 0px 10px 10px;
+  --padding-block-start: 2rem;
+  --padding-block-end: 2rem;
+  --padding-inline-start: 2rem;
+  --padding-inline-end: 2rem;
+}
+.elementor-12
+  .elementor-element.elementor-element-62f9bab:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-12
+  .elementor-element.elementor-element-62f9bab
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(180deg, #120e1e 0%, #0e101f 100%);
+}
+.elementor-12 .elementor-element.elementor-element-62f9bab,
+.elementor-12 .elementor-element.elementor-element-62f9bab::before {
+  --border-transition: 0.3s;
+}
+.elementor-12
+  .elementor-element.elementor-element-1772fd5
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.elementor-12 .elementor-element.elementor-element-c8caa57 {
+  color: #fcfeffbf;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.elementor-12
+  .elementor-element.elementor-element-c8caa57
+  > .elementor-widget-container {
+  margin: 1rem 0rem 0rem 0rem;
+}
+.elementor-12 .elementor-element.elementor-element-d8b561b {
+  --e-n-carousel-slide-height: auto;
+  --e-n-carousel-slide-container-height: 100%;
+  --e-n-carousel-swiper-slides-gap: 20px;
+}
+.elementor-12
+  .elementor-element.elementor-element-9e355bf
+  > .elementor-widget-container {
+  margin: 0rem 0rem 0rem 1rem;
+}
+.elementor-12 .elementor-element.elementor-element-9e355bf.elementor-element {
+  --align-self: flex-start;
+}
+.elementor-12 .elementor-element.elementor-element-9e355bf {
+  z-index: 100;
+}
+.elementor-12 .elementor-element.elementor-element-b4c5c9c {
+  --display: flex;
+  --flex-direction: row;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --container-widget-height: 100%;
+  --container-widget-flex-grow: 1;
+  --container-widget-align-self: stretch;
+  --justify-content: center;
+  --align-items: center;
+  --background-transition: 0.3s;
+  --padding-block-start: 5rem;
+  --padding-block-end: 5rem;
+  --padding-inline-start: 1.25rem;
+  --padding-inline-end: 1.25rem;
+}
+.elementor-12 .elementor-element.elementor-element-eb7d20c {
+  --display: flex;
+  --align-items: center;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --gap: 40px 40px;
+  --background-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-e59b5d7 {
+  --display: flex;
+  --align-items: center;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --gap: 5px 5px;
+  --background-transition: 0.3s;
+  --padding-block-start: 0px;
+  --padding-block-end: 0px;
+  --padding-inline-start: 0px;
+  --padding-inline-end: 0px;
+}
+.elementor-12 .elementor-element.elementor-element-7a368ce {
+  text-align: center;
+}
+.elementor-12
+  .elementor-element.elementor-element-7a368ce
+  .elementor-heading-title {
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 2.4px;
+}
+.elementor-12 .elementor-element.elementor-element-0adf372 {
+  text-align: center;
+  width: var(--container-widget-width, 370px);
+  max-width: 370px;
+  --container-widget-width: 370px;
+  --container-widget-flex-grow: 0;
+}
+.elementor-12
+  .elementor-element.elementor-element-0adf372
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "SF UI Display", Sans-serif;
+  font-weight: 300;
+}
+.elementor-12 .elementor-element.elementor-element-694dc15 {
+  --display: flex;
+  --flex-direction: row;
+  --container-widget-width: initial;
+  --container-widget-height: 100%;
+  --container-widget-flex-grow: 1;
+  --container-widget-align-self: stretch;
+  --justify-content: space-around;
+  --background-transition: 0.3s;
+  --border-radius: 10px 10px 10px 10px;
+  --padding-block-start: 0rem;
+  --padding-block-end: 0rem;
+  --padding-inline-start: 0rem;
+  --padding-inline-end: 0rem;
+}
+.elementor-12
+  .elementor-element.elementor-element-b77ca22
+  .elementor-icon-box-wrapper {
+  text-align: left;
+}
+.elementor-12 .elementor-element.elementor-element-b77ca22 {
+  --icon-box-icon-margin: 15px;
+  width: var(--container-widget-width, 320px);
+  max-width: 320px;
+  --container-widget-width: 320px;
+  --container-widget-flex-grow: 0;
+}
+.elementor-12
+  .elementor-element.elementor-element-b77ca22
+  .elementor-icon-box-title {
+  margin-bottom: 32px;
+  color: #ffffff;
+}
+.elementor-12 .elementor-element.elementor-element-b77ca22 .elementor-icon {
+  font-size: 40px;
+}
+.elementor-12
+  .elementor-element.elementor-element-b77ca22
+  .elementor-icon-box-title,
+.elementor-12
+  .elementor-element.elementor-element-b77ca22
+  .elementor-icon-box-title
+  a {
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+.elementor-12
+  .elementor-element.elementor-element-b77ca22
+  .elementor-icon-box-description {
+  color: #ffffffbf;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.1rem;
+}
+.elementor-12
+  .elementor-element.elementor-element-b77ca22
+  > .elementor-widget-container {
+  padding: 2rem 2rem 2rem 2rem;
+  background-color: transparent;
+  background-image: linear-gradient(180deg, #120e1e 0%, #0e101f 100%);
+  border-radius: 10px 10px 10px 10px;
+}
+.elementor-12
+  .elementor-element.elementor-element-b514f1b
+  .elementor-icon-box-wrapper {
+  text-align: left;
+}
+.elementor-12 .elementor-element.elementor-element-b514f1b {
+  --icon-box-icon-margin: 15px;
+  width: var(--container-widget-width, 320px);
+  max-width: 320px;
+  --container-widget-width: 320px;
+  --container-widget-flex-grow: 0;
+}
+.elementor-12
+  .elementor-element.elementor-element-b514f1b
+  .elementor-icon-box-title {
+  margin-bottom: 32px;
+  color: #ffffff;
+}
+.elementor-12 .elementor-element.elementor-element-b514f1b .elementor-icon {
+  font-size: 40px;
+}
+.elementor-12
+  .elementor-element.elementor-element-b514f1b
+  .elementor-icon-box-title,
+.elementor-12
+  .elementor-element.elementor-element-b514f1b
+  .elementor-icon-box-title
+  a {
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+.elementor-12
+  .elementor-element.elementor-element-b514f1b
+  .elementor-icon-box-description {
+  color: #ffffffbf;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.1rem;
+}
+.elementor-12
+  .elementor-element.elementor-element-b514f1b
+  > .elementor-widget-container {
+  padding: 2rem 2rem 2rem 2rem;
+  background-color: transparent;
+  background-image: linear-gradient(180deg, #120e1e 0%, #0e101f 100%);
+  border-radius: 10px 10px 10px 10px;
+}
+.elementor-12
+  .elementor-element.elementor-element-d26de65
+  .elementor-icon-box-wrapper {
+  text-align: left;
+}
+.elementor-12 .elementor-element.elementor-element-d26de65 {
+  --icon-box-icon-margin: 15px;
+  width: var(--container-widget-width, 320px);
+  max-width: 320px;
+  --container-widget-width: 320px;
+  --container-widget-flex-grow: 0;
+}
+.elementor-12
+  .elementor-element.elementor-element-d26de65
+  .elementor-icon-box-title {
+  margin-bottom: 32px;
+  color: #ffffff;
+}
+.elementor-12 .elementor-element.elementor-element-d26de65 .elementor-icon {
+  font-size: 40px;
+}
+.elementor-12
+  .elementor-element.elementor-element-d26de65
+  .elementor-icon-box-title,
+.elementor-12
+  .elementor-element.elementor-element-d26de65
+  .elementor-icon-box-title
+  a {
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+.elementor-12
+  .elementor-element.elementor-element-d26de65
+  .elementor-icon-box-description {
+  color: #ffffffbf;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.1rem;
+}
+.elementor-12
+  .elementor-element.elementor-element-d26de65
+  > .elementor-widget-container {
+  padding: 2rem 2rem 2rem 2rem;
+  background-color: transparent;
+  background-image: linear-gradient(180deg, #120e1e 0%, #0e101f 100%);
+  border-radius: 10px 10px 10px 10px;
+}
+.elementor-12 .elementor-element.elementor-element-5b84024 .elementor-button {
+  font-family: "SF UI Display", Sans-serif;
+  font-weight: 500;
+  border-style: none;
+  border-radius: 100px 100px 100px 100px;
+  padding: 15px 40px 15px 40px;
+}
+.elementor-12
+  .elementor-element.elementor-element-5b84024
+  .elementor-button:hover,
+.elementor-12
+  .elementor-element.elementor-element-5b84024
+  .elementor-button:focus {
+  color: #050c15;
+}
+.elementor-12
+  .elementor-element.elementor-element-5b84024
+  .elementor-button:hover
+  svg,
+.elementor-12
+  .elementor-element.elementor-element-5b84024
+  .elementor-button:focus
+  svg {
+  fill: #050c15;
+}
+.elementor-12 .elementor-element.elementor-element-ee7a1c4 {
+  --display: flex;
+  --flex-direction: row;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --container-widget-height: 100%;
+  --container-widget-flex-grow: 1;
+  --container-widget-align-self: stretch;
+  --justify-content: center;
+  --align-items: center;
+  --background-transition: 0.3s;
+  --padding-block-start: 5rem;
+  --padding-block-end: 5rem;
+  --padding-inline-start: 1.25rem;
+  --padding-inline-end: 1.25rem;
+}
+.elementor-12 .elementor-element.elementor-element-059106f {
+  --display: flex;
+  --align-items: center;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --gap: 40px 40px;
+  --background-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-89f7573 {
+  --display: flex;
+  --flex-direction: row;
+  --container-widget-width: initial;
+  --container-widget-height: 100%;
+  --container-widget-flex-grow: 1;
+  --container-widget-align-self: stretch;
+  --justify-content: space-around;
+  --background-transition: 0.3s;
+  --border-radius: 10px 10px 10px 10px;
+  --padding-block-start: 2rem;
+  --padding-block-end: 2rem;
+  --padding-inline-start: 2rem;
+  --padding-inline-end: 2rem;
+}
+.elementor-12
+  .elementor-element.elementor-element-89f7573:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-12
+  .elementor-element.elementor-element-89f7573
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(174deg, #120e1e 0%, #0e101f 100%);
+}
+.elementor-12 .elementor-element.elementor-element-89f7573,
+.elementor-12 .elementor-element.elementor-element-89f7573::before {
+  --border-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-5079481 {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-5079481.e-con {
+  --flex-grow: 0;
+  --flex-shrink: 0;
+}
+.elementor-12 .elementor-element.elementor-element-6f74055 img {
+  max-width: 1000px;
+}
+.elementor-12
+  .elementor-element.elementor-element-6f74055
+  > .elementor-widget-container {
+  margin: 0rem 0rem 0rem -8rem;
+}
+.elementor-12 .elementor-element.elementor-element-889ec52 {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-bd412a8 {
+  text-align: left;
+  width: var(--container-widget-width, 370px);
+  max-width: 370px;
+  --container-widget-width: 370px;
+  --container-widget-flex-grow: 0;
+}
+.elementor-12
+  .elementor-element.elementor-element-bd412a8
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 3rem;
+  font-weight: 300;
+}
+.elementor-12
+  .elementor-element.elementor-element-3a46d49
+  .elementor-icon-list-items:not(.elementor-inline-items)
+  .elementor-icon-list-item:not(:last-child) {
+  padding-bottom: calc(12px / 2);
+}
+.elementor-12
+  .elementor-element.elementor-element-3a46d49
+  .elementor-icon-list-items:not(.elementor-inline-items)
+  .elementor-icon-list-item:not(:first-child) {
+  margin-top: calc(12px / 2);
+}
+.elementor-12
+  .elementor-element.elementor-element-3a46d49
+  .elementor-icon-list-items.elementor-inline-items
+  .elementor-icon-list-item {
+  margin-right: calc(12px / 2);
+  margin-left: calc(12px / 2);
+}
+.elementor-12
+  .elementor-element.elementor-element-3a46d49
+  .elementor-icon-list-items.elementor-inline-items {
+  margin-right: calc(-12px / 2);
+  margin-left: calc(-12px / 2);
+}
+body.rtl
+  .elementor-12
+  .elementor-element.elementor-element-3a46d49
+  .elementor-icon-list-items.elementor-inline-items
+  .elementor-icon-list-item:after {
+  left: calc(-12px / 2);
+}
+body:not(.rtl)
+  .elementor-12
+  .elementor-element.elementor-element-3a46d49
+  .elementor-icon-list-items.elementor-inline-items
+  .elementor-icon-list-item:after {
+  right: calc(-12px / 2);
+}
+.elementor-12
+  .elementor-element.elementor-element-3a46d49
+  .elementor-icon-list-icon
+  i {
+  color: #f2d500;
+  transition: color 0.3s;
+}
+.elementor-12
+  .elementor-element.elementor-element-3a46d49
+  .elementor-icon-list-icon
+  svg {
+  fill: #f2d500;
+  transition: fill 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-3a46d49 {
+  --e-icon-list-icon-size: 14px;
+  --icon-vertical-align: flex-start;
+  --icon-vertical-offset: 8px;
+}
+.elementor-12
+  .elementor-element.elementor-element-3a46d49
+  .elementor-icon-list-item
+  > .elementor-icon-list-text,
+.elementor-12
+  .elementor-element.elementor-element-3a46d49
+  .elementor-icon-list-item
+  > a {
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1.125rem;
+  font-weight: 400;
+}
+.elementor-12
+  .elementor-element.elementor-element-3a46d49
+  .elementor-icon-list-text {
+  color: #ffffffbf;
+  transition: color 0.3s;
+}
+.elementor-12
+  .elementor-element.elementor-element-3a46d49
+  > .elementor-widget-container {
+  margin: 1rem 0rem 0rem 0rem;
+}
+.elementor-12 .elementor-element.elementor-element-f81fc56 {
+  --display: flex;
+  --gap: 10px 10px;
+  --background-transition: 0.3s;
+  --border-radius: 15px 15px 15px 15px;
+  --margin-block-start: 1rem;
+  --margin-block-end: 0rem;
+  --margin-inline-start: 0rem;
+  --margin-inline-end: 0rem;
+  --padding-block-start: 1.25rem;
+  --padding-block-end: 1.25rem;
+  --padding-inline-start: 1.25rem;
+  --padding-inline-end: 1.25rem;
+}
+.elementor-12
+  .elementor-element.elementor-element-94c8de4
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.elementor-12
+  .elementor-element.elementor-element-7024a60
+  .elementor-heading-title {
+  color: #ffffffbf;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1.125rem;
+  font-weight: normal;
+}
+.elementor-12 .elementor-element.elementor-element-c93206b .elementor-button {
+  font-family: "SF UI Display", Sans-serif;
+  font-weight: 500;
+  border-style: none;
+  border-radius: 100px 100px 100px 100px;
+  padding: 15px 40px 15px 40px;
+}
+.elementor-12
+  .elementor-element.elementor-element-c93206b
+  .elementor-button:hover,
+.elementor-12
+  .elementor-element.elementor-element-c93206b
+  .elementor-button:focus {
+  color: #050c15;
+}
+.elementor-12
+  .elementor-element.elementor-element-c93206b
+  .elementor-button:hover
+  svg,
+.elementor-12
+  .elementor-element.elementor-element-c93206b
+  .elementor-button:focus
+  svg {
+  fill: #050c15;
+}
+.elementor-12 .elementor-element.elementor-element-d29f239 {
+  --display: flex;
+  --flex-direction: column;
+  --container-widget-width: calc(
+    (1 - var(--container-widget-flex-grow)) * 100%
+  );
+  --container-widget-height: initial;
+  --container-widget-flex-grow: 0;
+  --container-widget-align-self: initial;
+  --align-items: center;
+  --background-transition: 0.3s;
+  --padding-block-start: 6rem;
+  --padding-block-end: 2rem;
+  --padding-inline-start: 1.25rem;
+  --padding-inline-end: 1.25rem;
+}
+.elementor-12
+  .elementor-element.elementor-element-d29f239:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-12
+  .elementor-element.elementor-element-d29f239
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: transparent;
+  background-image: linear-gradient(190deg, #19142f 0%, #19142f 100%);
+}
+.elementor-12 .elementor-element.elementor-element-d29f239,
+.elementor-12 .elementor-element.elementor-element-d29f239::before {
+  --border-transition: 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-46a0398 {
+  --display: flex;
+  --flex-direction: row;
+  --container-widget-width: initial;
+  --container-widget-height: 100%;
+  --container-widget-flex-grow: 1;
+  --container-widget-align-self: stretch;
+  --background-transition: 0.3s;
+  --margin-block-start: 0rem;
+  --margin-block-end: 5rem;
+  --margin-inline-start: 0rem;
+  --margin-inline-end: 0rem;
+}
+.elementor-12 .elementor-element.elementor-element-bc7db9b {
+  --display: flex;
+  --justify-content: center;
+  --background-transition: 0.3s;
+  --padding-block-start: 0px;
+  --padding-block-end: 0px;
+  --padding-inline-start: 0px;
+  --padding-inline-end: 0px;
+}
+.elementor-12 .elementor-element.elementor-element-65134d6 {
+  text-align: left;
+}
+.elementor-12
+  .elementor-element.elementor-element-c10f721
+  .elementor-heading-title {
+  color: #ffffffbf;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1.125rem;
+  font-weight: 300;
+}
+.elementor-12 .elementor-element.elementor-element-a6b5ba7 {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-12
+  .elementor-element.elementor-element-38c0d5b
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+.elementor-12 .elementor-element.elementor-element-49d5712 .elementor-button {
+  font-family: "SF UI Display", Sans-serif;
+  font-weight: 300;
+  background-color: #f2d50000;
+  padding: 0px 0px 0px 0px;
+}
+.elementor-12 .elementor-element.elementor-element-eea9d3b .elementor-button {
+  font-family: "SF UI Display", Sans-serif;
+  font-weight: 300;
+  background-color: #f2d50000;
+  padding: 0px 0px 0px 0px;
+}
+.elementor-12 .elementor-element.elementor-element-7bda3b4 {
+  --display: flex;
+  --background-transition: 0.3s;
+}
+.elementor-12
+  .elementor-element.elementor-element-3ea87b0
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+.elementor-12 .elementor-element.elementor-element-21432d2 {
+  --display: flex;
+  --flex-direction: row;
+  --container-widget-width: initial;
+  --container-widget-height: 100%;
+  --container-widget-flex-grow: 1;
+  --container-widget-align-self: stretch;
+  --gap: 5px 5px;
+  --background-transition: 0.3s;
+  --padding-block-start: 0px;
+  --padding-block-end: 0px;
+  --padding-inline-start: 0px;
+  --padding-inline-end: 0px;
+}
+.elementor-12
+  .elementor-element.elementor-element-b8c73b7
+  .elementor-icon-wrapper {
+  text-align: center;
+}
+.elementor-12
+  .elementor-element.elementor-element-b8c73b7.elementor-view-stacked
+  .elementor-icon {
+  background-color: #ffffff1c;
+}
+.elementor-12
+  .elementor-element.elementor-element-b8c73b7.elementor-view-framed
+  .elementor-icon,
+.elementor-12
+  .elementor-element.elementor-element-b8c73b7.elementor-view-default
+  .elementor-icon {
+  color: #ffffff1c;
+  border-color: #ffffff1c;
+}
+.elementor-12
+  .elementor-element.elementor-element-b8c73b7.elementor-view-framed
+  .elementor-icon,
+.elementor-12
+  .elementor-element.elementor-element-b8c73b7.elementor-view-default
+  .elementor-icon
+  svg {
+  fill: #ffffff1c;
+}
+.elementor-12 .elementor-element.elementor-element-b8c73b7 .elementor-icon {
+  font-size: 26px;
+}
+.elementor-12 .elementor-element.elementor-element-b8c73b7 .elementor-icon svg {
+  height: 26px;
+}
+.elementor-12
+  .elementor-element.elementor-element-2698509
+  .elementor-icon-wrapper {
+  text-align: center;
+}
+.elementor-12
+  .elementor-element.elementor-element-2698509.elementor-view-stacked
+  .elementor-icon {
+  background-color: #ffffff1c;
+}
+.elementor-12
+  .elementor-element.elementor-element-2698509.elementor-view-framed
+  .elementor-icon,
+.elementor-12
+  .elementor-element.elementor-element-2698509.elementor-view-default
+  .elementor-icon {
+  color: #ffffff1c;
+  border-color: #ffffff1c;
+}
+.elementor-12
+  .elementor-element.elementor-element-2698509.elementor-view-framed
+  .elementor-icon,
+.elementor-12
+  .elementor-element.elementor-element-2698509.elementor-view-default
+  .elementor-icon
+  svg {
+  fill: #ffffff1c;
+}
+.elementor-12 .elementor-element.elementor-element-2698509 .elementor-icon {
+  font-size: 26px;
+}
+.elementor-12 .elementor-element.elementor-element-2698509 .elementor-icon svg {
+  height: 26px;
+}
+.elementor-12
+  .elementor-element.elementor-element-7e9c8ae
+  .elementor-icon-wrapper {
+  text-align: center;
+}
+.elementor-12
+  .elementor-element.elementor-element-7e9c8ae.elementor-view-stacked
+  .elementor-icon {
+  background-color: #ffffff1c;
+}
+.elementor-12
+  .elementor-element.elementor-element-7e9c8ae.elementor-view-framed
+  .elementor-icon,
+.elementor-12
+  .elementor-element.elementor-element-7e9c8ae.elementor-view-default
+  .elementor-icon {
+  color: #ffffff1c;
+  border-color: #ffffff1c;
+}
+.elementor-12
+  .elementor-element.elementor-element-7e9c8ae.elementor-view-framed
+  .elementor-icon,
+.elementor-12
+  .elementor-element.elementor-element-7e9c8ae.elementor-view-default
+  .elementor-icon
+  svg {
+  fill: #ffffff1c;
+}
+.elementor-12 .elementor-element.elementor-element-7e9c8ae .elementor-icon {
+  font-size: 26px;
+}
+.elementor-12 .elementor-element.elementor-element-7e9c8ae .elementor-icon svg {
+  height: 26px;
+}
+.elementor-12
+  .elementor-element.elementor-element-5851743
+  .elementor-icon-wrapper {
+  text-align: center;
+}
+.elementor-12
+  .elementor-element.elementor-element-5851743.elementor-view-stacked
+  .elementor-icon {
+  background-color: #ffffff1c;
+}
+.elementor-12
+  .elementor-element.elementor-element-5851743.elementor-view-framed
+  .elementor-icon,
+.elementor-12
+  .elementor-element.elementor-element-5851743.elementor-view-default
+  .elementor-icon {
+  color: #ffffff1c;
+  border-color: #ffffff1c;
+}
+.elementor-12
+  .elementor-element.elementor-element-5851743.elementor-view-framed
+  .elementor-icon,
+.elementor-12
+  .elementor-element.elementor-element-5851743.elementor-view-default
+  .elementor-icon
+  svg {
+  fill: #ffffff1c;
+}
+.elementor-12 .elementor-element.elementor-element-5851743 .elementor-icon {
+  font-size: 26px;
+}
+.elementor-12 .elementor-element.elementor-element-5851743 .elementor-icon svg {
+  height: 26px;
+}
+.elementor-12 .elementor-element.elementor-element-40e8fa1 {
+  --display: flex;
+  --background-transition: 0.3s;
+  border-style: solid;
+  --border-style: solid;
+  border-width: 1px 0px 0px 0px;
+  --border-block-start-width: 1px;
+  --border-inline-end-width: 0px;
+  --border-block-end-width: 0px;
+  --border-inline-start-width: 0px;
+  border-color: #ffffff80;
+  --border-color: #ffffff80;
+  --padding-block-start: 2.5rem;
+  --padding-block-end: 0.625rem;
+  --padding-inline-start: 0.625rem;
+  --padding-inline-end: 0.625rem;
+}
+.elementor-12 .elementor-element.elementor-element-40e8fa1,
+.elementor-12 .elementor-element.elementor-element-40e8fa1::before {
+  --border-transition: 0.3s;
+}
+.elementor-12
+  .elementor-element.elementor-element-84fa3b0
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "SF UI Display", Sans-serif;
+  font-size: 0.875rem;
+  font-weight: 300;
+}
+body.elementor-page-12:not(.elementor-motion-effects-element-type-background),
+body.elementor-page-12
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #19142f;
+}
+@media (max-width: 1024px) {
+  .elementor-12 .elementor-element.elementor-element-fc5fcc3 {
+    --padding-block-start: 2rem;
+    --padding-block-end: 2rem;
+    --padding-inline-start: 1.25rem;
+    --padding-inline-end: 1.25rem;
+  }
+  .elementor-12 .elementor-element.elementor-element-edf64ba {
+    --flex-direction: row;
+    --container-widget-width: calc(
+      (1 - var(--container-widget-flex-grow)) * 100%
+    );
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --align-items: center;
+    --flex-wrap: nowrap;
+  }
+  .elementor-12 .elementor-element.elementor-element-e2a18dd {
+    --align-items: center;
+    --container-widget-width: calc(
+      (1 - var(--container-widget-flex-grow)) * 100%
+    );
+  }
+  .elementor-12 .elementor-element.elementor-element-c3d9a32 {
+    text-align: center;
+  }
+  .elementor-12 .elementor-element.elementor-element-6246249 {
+    text-align: center;
+  }
+  .elementor-12 .elementor-element.elementor-element-1ba59c7 {
+    text-align: center;
+  }
+  .elementor-12 .elementor-element.elementor-element-7bd041c {
+    --flex-wrap: wrap;
+  }
+  .elementor-12 .elementor-element.elementor-element-199b99a {
+    --align-items: center;
+    --container-widget-width: calc(
+      (1 - var(--container-widget-flex-grow)) * 100%
+    );
+  }
+  .elementor-12 .elementor-element.elementor-element-d0d8f67 {
+    text-align: center;
+  }
+  .elementor-12 .elementor-element.elementor-element-d8b561b {
+    --e-n-carousel-swiper-slides-to-display: 2;
+  }
+  .elementor-12 .elementor-element.elementor-element-9e355bf.elementor-element {
+    --align-self: center;
+  }
+  .elementor-12 .elementor-element.elementor-element-694dc15 {
+    --flex-direction: column;
+    --container-widget-width: calc(
+      (1 - var(--container-widget-flex-grow)) * 100%
+    );
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: center;
+    --align-items: center;
+  }
+  .elementor-12 .elementor-element.elementor-element-6f74055 img {
+    width: 600px;
+  }
+  .elementor-12
+    .elementor-element.elementor-element-6f74055
+    > .elementor-widget-container {
+    margin: 0rem 0rem 0rem -17rem;
+  }
+  .elementor-12 .elementor-element.elementor-element-b8c73b7 .elementor-icon {
+    font-size: 18px;
+  }
+  .elementor-12
+    .elementor-element.elementor-element-b8c73b7
+    .elementor-icon
+    svg {
+    height: 18px;
+  }
+  .elementor-12 .elementor-element.elementor-element-2698509 .elementor-icon {
+    font-size: 18px;
+  }
+  .elementor-12
+    .elementor-element.elementor-element-2698509
+    .elementor-icon
+    svg {
+    height: 18px;
+  }
+  .elementor-12 .elementor-element.elementor-element-7e9c8ae .elementor-icon {
+    font-size: 18px;
+  }
+  .elementor-12
+    .elementor-element.elementor-element-7e9c8ae
+    .elementor-icon
+    svg {
+    height: 18px;
+  }
+  .elementor-12 .elementor-element.elementor-element-5851743 .elementor-icon {
+    font-size: 18px;
+  }
+  .elementor-12
+    .elementor-element.elementor-element-5851743
+    .elementor-icon
+    svg {
+    height: 18px;
+  }
+  .elementor-12 .elementor-element.elementor-element-84fa3b0 {
+    text-align: center;
+  }
+}
+@media (max-width: 767px) {
+  .elementor-12 .elementor-element.elementor-element-fc5fcc3 {
+    --padding-block-start: 1rem;
+    --padding-block-end: 1rem;
+    --padding-inline-start: 1.25rem;
+    --padding-inline-end: 1.25rem;
+  }
+  .elementor-12 .elementor-element.elementor-element-edf64ba {
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --gap: 0px 0px;
+    --flex-wrap: nowrap;
+  }
+  .elementor-12 .elementor-element.elementor-element-f586a10 {
+    --width: 15%;
+  }
+  .elementor-12 .elementor-element.elementor-element-a055a45 {
+    --width: 72%;
+    --justify-content: center;
+  }
+  .elementor-12 .elementor-element.elementor-element-95e60b0 {
+    text-align: center;
+  }
+  .elementor-12 .elementor-element.elementor-element-95e60b0 img {
+    width: 100%;
+    max-width: 120px;
+  }
+  .elementor-12 .elementor-element.elementor-element-93ad5b4 {
+    --justify-content: center;
+  }
+  .elementor-12 .elementor-element.elementor-element-f75a6fd {
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: space-between;
+  }
+  .elementor-12 .elementor-element.elementor-element-544d706 {
+    text-align: center;
+  }
+  .elementor-12 .elementor-element.elementor-element-03fabaf {
+    --justify-content: center;
+    --gap: 0px 0px;
+    --flex-wrap: nowrap;
+  }
+  .elementor-12 .elementor-element.elementor-element-e2a18dd {
+    --align-items: center;
+    --container-widget-width: calc(
+      (1 - var(--container-widget-flex-grow)) * 100%
+    );
+  }
+  .elementor-12 .elementor-element.elementor-element-c3d9a32 {
+    text-align: center;
+  }
+  .elementor-12
+    .elementor-element.elementor-element-c3d9a32
+    .elementor-heading-title {
+    font-size: 2rem;
+  }
+  .elementor-12 .elementor-element.elementor-element-6246249 img {
+    width: 100%;
+    max-width: 100%;
+  }
+  .elementor-12
+    .elementor-element.elementor-element-6246249
+    > .elementor-widget-container {
+    margin: -1rem 0rem -4rem 0rem;
+  }
+  .elementor-12 .elementor-element.elementor-element-1ba59c7 {
+    text-align: center;
+    font-size: 1rem;
+  }
+  .elementor-12 .elementor-element.elementor-element-750b869 {
+    text-align: left;
+  }
+  .elementor-12 .elementor-element.elementor-element-8c8f083 {
+    text-align: center;
+  }
+  .elementor-12 .elementor-element.elementor-element-136107d {
+    text-align: center;
+  }
+  .elementor-12 .elementor-element.elementor-element-d41f592 {
+    --padding-block-start: 0px;
+    --padding-block-end: 0px;
+    --padding-inline-start: 0px;
+    --padding-inline-end: 0px;
+  }
+  .elementor-12 .elementor-element.elementor-element-5a44e55 {
+    --padding-block-start: 0rem;
+    --padding-block-end: 0rem;
+    --padding-inline-start: 1.25rem;
+    --padding-inline-end: 1.25rem;
+  }
+  .elementor-12 .elementor-element.elementor-element-d67086b {
+    --gap: 0px 0px;
+  }
+  .elementor-12 .elementor-element.elementor-element-199b99a {
+    --padding-block-start: 2rem;
+    --padding-block-end: 2rem;
+    --padding-inline-start: 1.25rem;
+    --padding-inline-end: 1.25rem;
+  }
+  .elementor-12 .elementor-element.elementor-element-f7f359e {
+    --align-items: center;
+    --container-widget-width: calc(
+      (1 - var(--container-widget-flex-grow)) * 100%
+    );
+  }
+  .elementor-12 .elementor-element.elementor-element-d0d8f67 {
+    text-align: center;
+  }
+  .elementor-12 .elementor-element.elementor-element-1877a27 {
+    text-align: center;
+  }
+  .elementor-12 .elementor-element.elementor-element-1202918 {
+    --width: 280px;
+  }
+  .elementor-12 .elementor-element.elementor-element-4ee988b {
+    --width: 280px;
+  }
+  .elementor-12 .elementor-element.elementor-element-682b2be {
+    --width: 280px;
+  }
+  .elementor-12 .elementor-element.elementor-element-d30e3e2 {
+    --width: 280px;
+  }
+  .elementor-12 .elementor-element.elementor-element-62f9bab {
+    --width: 280px;
+  }
+  .elementor-12 .elementor-element.elementor-element-d8b561b {
+    --e-n-carousel-swiper-slides-to-display: 1;
+    z-index: 100;
+  }
+  .elementor-12
+    .elementor-element.elementor-element-d8b561b
+    > .elementor-widget-container {
+    margin: 2rem 0rem 0rem 0rem;
+  }
+  .elementor-12 .elementor-element.elementor-element-9e355bf.elementor-element {
+    --align-self: flex-start;
+  }
+  .elementor-12 .elementor-element.elementor-element-7a368ce {
+    text-align: left;
+  }
+  .elementor-12 .elementor-element.elementor-element-0adf372 {
+    text-align: center;
+  }
+  .elementor-12 .elementor-element.elementor-element-ee7a1c4 {
+    --padding-block-start: 0rem;
+    --padding-block-end: 5rem;
+    --padding-inline-start: 1.25rem;
+    --padding-inline-end: 1.25rem;
+  }
+  .elementor-12 .elementor-element.elementor-element-6f74055 img {
+    width: 100%;
+    max-width: 400px;
+  }
+  .elementor-12
+    .elementor-element.elementor-element-6f74055
+    > .elementor-widget-container {
+    margin: -6rem -0rem -0rem -0rem;
+  }
+  .elementor-12 .elementor-element.elementor-element-889ec52 {
+    --align-items: center;
+    --container-widget-width: calc(
+      (1 - var(--container-widget-flex-grow)) * 100%
+    );
+  }
+  .elementor-12 .elementor-element.elementor-element-bd412a8 {
+    text-align: center;
+  }
+  .elementor-12 .elementor-element.elementor-element-3a46d49 {
+    width: var(--container-widget-width, 300px);
+    max-width: 300px;
+    --container-widget-width: 300px;
+    --container-widget-flex-grow: 0;
+  }
+  .elementor-12 .elementor-element.elementor-element-f81fc56 {
+    --content-width: 200px;
+    --justify-content: center;
+    --align-items: center;
+    --container-widget-width: calc(
+      (1 - var(--container-widget-flex-grow)) * 100%
+    );
+  }
+  .elementor-12 .elementor-element.elementor-element-94c8de4 {
+    text-align: center;
+  }
+  .elementor-12
+    .elementor-element.elementor-element-94c8de4
+    .elementor-heading-title {
+    font-size: 0.9rem;
+  }
+  .elementor-12 .elementor-element.elementor-element-7024a60 {
+    text-align: center;
+  }
+  .elementor-12
+    .elementor-element.elementor-element-7024a60
+    .elementor-heading-title {
+    font-size: 0.8rem;
+  }
+  .elementor-12 .elementor-element.elementor-element-bc7db9b {
+    --padding-block-start: 10px;
+    --padding-block-end: 10px;
+    --padding-inline-start: 10px;
+    --padding-inline-end: 10px;
+  }
+  .elementor-12 .elementor-element.elementor-element-65134d6 {
+    text-align: center;
+  }
+}
+@media (min-width: 768px) {
+  .elementor-12 .elementor-element.elementor-element-fc5fcc3 {
+    --content-width: 1000px;
+  }
+  .elementor-12 .elementor-element.elementor-element-edf64ba {
+    --width: 17.699%;
+  }
+  .elementor-12 .elementor-element.elementor-element-f75a6fd {
+    --width: 17.699%;
+  }
+  .elementor-12 .elementor-element.elementor-element-b042f54 {
+    --content-width: 1000px;
+  }
+  .elementor-12 .elementor-element.elementor-element-dca1054 {
+    --content-width: 1000px;
+  }
+  .elementor-12 .elementor-element.elementor-element-d67086b {
+    --width: 50%;
+  }
+  .elementor-12 .elementor-element.elementor-element-1202918 {
+    --width: 340px;
+  }
+  .elementor-12 .elementor-element.elementor-element-4ee988b {
+    --width: 340px;
+  }
+  .elementor-12 .elementor-element.elementor-element-682b2be {
+    --width: 340px;
+  }
+  .elementor-12 .elementor-element.elementor-element-d30e3e2 {
+    --width: 340px;
+  }
+  .elementor-12 .elementor-element.elementor-element-62f9bab {
+    --width: 340px;
+  }
+  .elementor-12 .elementor-element.elementor-element-b4c5c9c {
+    --content-width: 1000px;
+  }
+  .elementor-12 .elementor-element.elementor-element-ee7a1c4 {
+    --content-width: 1000px;
+  }
+  .elementor-12 .elementor-element.elementor-element-5079481 {
+    --width: 50%;
+  }
+  .elementor-12 .elementor-element.elementor-element-d29f239 {
+    --content-width: 1000px;
+  }
+}
+@media (max-width: 1024px) and (min-width: 768px) {
+  .elementor-12 .elementor-element.elementor-element-edf64ba {
+    --width: 100%;
+  }
+  .elementor-12 .elementor-element.elementor-element-f586a10 {
+    --width: 0%;
+  }
+  .elementor-12 .elementor-element.elementor-element-a055a45 {
+    --width: 40%;
+  }
+  .elementor-12 .elementor-element.elementor-element-93ad5b4 {
+    --width: 50%;
+  }
+  .elementor-12 .elementor-element.elementor-element-f75a6fd {
+    --width: 100%;
+  }
+  .elementor-12 .elementor-element.elementor-element-199b99a {
+    --content-width: 100%;
+  }
+  .elementor-12 .elementor-element.elementor-element-059106f {
+    --content-width: 100%;
+  }
+  .elementor-12 .elementor-element.elementor-element-5079481 {
+    --width: 189px;
+  }
+} /* Start custom CSS for nav-menu, class: .elementor-element-ca30b41 */
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-item.elementor-item-active {
+  padding-bottom: 10px !important;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-item.elementor-item-active:after {
+  width: 100%;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-item:after {
+  transition: width 0.2s linear !important;
+  width: 0;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-item:hover:after {
+  width: 100%;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-ca30b41
+  .elementor-nav-menu--dropdown {
+  width: 180px !important;
+  right: 0 !important;
+  left: auto !important;
+  border-radius: 10px;
+} /* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-41ee4fe */
+.elementor-12 .elementor-element.elementor-element-41ee4fe a {
+  background: #121fcf;
+  background: linear-gradient(
+    to right,
+    var(--e-global-color-primary) 0%,
+    var(--e-global-color-secondary) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+} /* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-be2806d */
+.elementor-12 .elementor-element.elementor-element-be2806d .elementor-button {
+  background-color: transparent !important;
+  transition: all 0.3s ease-in;
+  position: relative;
+  border-radius: 100px !important;
+  overflow: hidden;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-be2806d
+  .elementor-button-content-wrapper {
+  z-index: 100;
+  position: relative;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-be2806d
+  .elementor-button:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 100px;
+  padding: 2px;
+  /* background: linear-gradient(
+    45deg,
+    var(--e-global-color-primary),
+    var(--e-global-color-secondary)
+  ); */
+  background: radial-gradient(
+    circle,
+    rgba(201, 171, 20, 1) 69%,
+    rgba(236, 225, 110, 1) 100%,
+    rgba(255, 254, 159, 1) 100%,
+    rgba(255, 254, 159, 1) 100%
+  );
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-be2806d
+  .elementor-button:after {
+  content: "";
+  display: flex;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 100%;
+  border-radius: 100px;
+  /* background: linear-gradient(
+    45deg,
+    var(--e-global-color-primary),
+    var(--e-global-color-secondary)
+  ); */
+  background: radial-gradient(
+    circle,
+    rgba(201, 171, 20, 1) 69%,
+    rgba(236, 225, 110, 1) 100%,
+    rgba(255, 254, 159, 1) 100%,
+    rgba(255, 254, 159, 1) 100%
+  );
+  transition: ease-in-out 300ms;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-be2806d
+  .elementor-button:hover:after {
+  right: 0;
+} /* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-368cebd */
+.elementor-12 .elementor-element.elementor-element-368cebd .elementor-button {
+  background-color: transparent !important;
+  transition: all 0.3s ease-in;
+  position: relative;
+  border-radius: 100px !important;
+  overflow: hidden;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-368cebd
+  .elementor-button-content-wrapper {
+  z-index: 100;
+  position: relative;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-368cebd
+  .elementor-button:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 100px;
+  padding: 2px;
+  /* background: linear-gradient(
+    45deg,
+    var(--e-global-color-primary),
+    var(--e-global-color-secondary)
+  ); */
+  background: radial-gradient(
+    circle,
+    rgba(201, 171, 20, 1) 69%,
+    rgba(236, 225, 110, 1) 100%,
+    rgba(255, 254, 159, 1) 100%,
+    rgba(255, 254, 159, 1) 100%
+  );
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-368cebd
+  .elementor-button:after {
+  content: "";
+  display: flex;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 100%;
+  border-radius: 100px;
+  /* background: linear-gradient(
+    45deg,
+    var(--e-global-color-primary),
+    var(--e-global-color-secondary)
+  ); */
+  background: radial-gradient(
+    circle,
+    rgba(201, 171, 20, 1) 69%,
+    rgba(236, 225, 110, 1) 100%,
+    rgba(255, 254, 159, 1) 100%,
+    rgba(255, 254, 159, 1) 100%
+  );
+  transition: ease-in-out 300ms;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-368cebd
+  .elementor-button:hover:after {
+  right: 0;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-c445fb4 */
+.elementor-12 .elementor-element.elementor-element-c445fb4 {
+  position: relative;
+}
+
+.elementor-12 .elementor-element.elementor-element-c445fb4:before {
+  content: "";
+  position: absolute;
+  left: 50vw;
+  top: -50vh;
+  width: 980px;
+  height: 980px;
+  border-radius: 986px;
+  background: #120e1e;
+  filter: blur(500px);
+  z-index: -1;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-1202918 */
+.elementor-12 .elementor-element.elementor-element-1202918:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-4ee988b */
+.elementor-12 .elementor-element.elementor-element-4ee988b:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-682b2be */
+.elementor-12 .elementor-element.elementor-element-682b2be:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-d30e3e2 */
+.elementor-12 .elementor-element.elementor-element-d30e3e2:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-62f9bab */
+.elementor-12 .elementor-element.elementor-element-62f9bab:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-1202918 */
+.elementor-12 .elementor-element.elementor-element-1202918:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-4ee988b */
+.elementor-12 .elementor-element.elementor-element-4ee988b:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-682b2be */
+.elementor-12 .elementor-element.elementor-element-682b2be:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-d30e3e2 */
+.elementor-12 .elementor-element.elementor-element-d30e3e2:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-62f9bab */
+.elementor-12 .elementor-element.elementor-element-62f9bab:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-1202918 */
+.elementor-12 .elementor-element.elementor-element-1202918:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-4ee988b */
+.elementor-12 .elementor-element.elementor-element-4ee988b:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-682b2be */
+.elementor-12 .elementor-element.elementor-element-682b2be:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-d30e3e2 */
+.elementor-12 .elementor-element.elementor-element-d30e3e2:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-62f9bab */
+.elementor-12 .elementor-element.elementor-element-62f9bab:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-1202918 */
+.elementor-12 .elementor-element.elementor-element-1202918:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-4ee988b */
+.elementor-12 .elementor-element.elementor-element-4ee988b:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-682b2be */
+.elementor-12 .elementor-element.elementor-element-682b2be:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-d30e3e2 */
+.elementor-12 .elementor-element.elementor-element-d30e3e2:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-62f9bab */
+.elementor-12 .elementor-element.elementor-element-62f9bab:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-1202918 */
+.elementor-12 .elementor-element.elementor-element-1202918:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-4ee988b */
+.elementor-12 .elementor-element.elementor-element-4ee988b:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-682b2be */
+.elementor-12 .elementor-element.elementor-element-682b2be:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-d30e3e2 */
+.elementor-12 .elementor-element.elementor-element-d30e3e2:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-62f9bab */
+.elementor-12 .elementor-element.elementor-element-62f9bab:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-1202918 */
+.elementor-12 .elementor-element.elementor-element-1202918:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-4ee988b */
+.elementor-12 .elementor-element.elementor-element-4ee988b:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-682b2be */
+.elementor-12 .elementor-element.elementor-element-682b2be:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-d30e3e2 */
+.elementor-12 .elementor-element.elementor-element-d30e3e2:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-62f9bab */
+.elementor-12 .elementor-element.elementor-element-62f9bab:before {
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  background: #322b53;
+} /* End custom CSS */
+/* Start custom CSS for nested-carousel, class: .elementor-element-d8b561b */
+.elementor-12 .elementor-element.elementor-element-d8b561b .swiper {
+  overflow: initial;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-d8b561b
+  .swiper
+  .swiper-slide {
+  opacity: 0;
+  transition: ease-in-out 300ms;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-d8b561b
+  .swiper
+  .swiper-slide-active,
+.elementor-12
+  .elementor-element.elementor-element-d8b561b
+  .swiper
+  .swiper-slide-active
+  ~ * {
+  opacity: 1;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-d8b561b
+  .swiper
+  .swiper-slide {
+  width: auto;
+} /* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-9e355bf */
+.elementor-12
+  .elementor-element.elementor-element-9e355bf
+  .swiper-beneficios-navigation {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (min-width: 992px) {
+  .elementor-12
+    .elementor-element.elementor-element-9e355bf
+    .swiper-beneficios-navigation {
+    justify-content: start;
+  }
+}
+
+.elementor-12
+  .elementor-element.elementor-element-9e355bf
+  .swiper-beneficios-pagination {
+  width: auto;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-9e355bf
+  .swiper-beneficios-pagination
+  .swiper-pagination-bullet {
+  background: #fff;
+}
+
+.elementor-12 .elementor-element.elementor-element-9e355bf .swiper-prev,
+.swiper-next {
+  cursor: pointer;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-d41f592 */
+.elementor-12 .elementor-element.elementor-element-d41f592 {
+  position: relative;
+}
+
+.elementor-12 .elementor-element.elementor-element-d41f592:before {
+  content: "";
+  position: absolute;
+  left: -800px;
+  top: -50%;
+  width: 1286px;
+  height: 1286px;
+  border-radius: 1286px;
+  background: #120e1e;
+  filter: blur(600px);
+  z-index: -1;
+} /* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-5b84024 */
+.elementor-12 .elementor-element.elementor-element-5b84024 .elementor-button {
+  background-color: transparent !important;
+  transition: all 0.3s ease-in;
+  position: relative;
+  border-radius: 100px !important;
+  overflow: hidden;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-5b84024
+  .elementor-button-content-wrapper {
+  z-index: 100;
+  position: relative;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-5b84024
+  .elementor-button:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 100px;
+  padding: 2px;
+  /* background: linear-gradient(
+    45deg,
+    var(--e-global-color-primary),
+    var(--e-global-color-secondary)
+  ); */
+  background: radial-gradient(
+    circle,
+    rgba(201, 171, 20, 1) 69%,
+    rgba(236, 225, 110, 1) 100%,
+    rgba(255, 254, 159, 1) 100%,
+    rgba(255, 254, 159, 1) 100%
+  );
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-5b84024
+  .elementor-button:after {
+  content: "";
+  display: flex;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 100%;
+  border-radius: 100px;
+  /* background: linear-gradient(
+    45deg,
+    var(--e-global-color-primary),
+    var(--e-global-color-secondary)
+  ); */
+  background: radial-gradient(
+    circle,
+    rgba(201, 171, 20, 1) 69%,
+    rgba(236, 225, 110, 1) 100%,
+    rgba(255, 254, 159, 1) 100%,
+    rgba(255, 254, 159, 1) 100%
+  );
+  transition: ease-in-out 300ms;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-5b84024
+  .elementor-button:hover:after {
+  right: 0;
+} /* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-6f74055 */
+@keyframes glow {
+  0% {
+    opacity: 0.5;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0.5;
+  }
+}
+
+.elementor-12
+  .elementor-element.elementor-element-6f74055
+  .elementor-widget-container:before {
+  content: "";
+  width: 300px;
+  height: 300px;
+  background: #f2d500;
+  display: flex;
+  border-radius: 100%;
+  position: absolute;
+  filter: blur(500px);
+  z-index: 100;
+  animation: glow 3s linear infinite;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-6f74055
+  .elementor-widget-container {
+  z-index: 100;
+} /* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-f81fc56 */
+.elementor-12 .elementor-element.elementor-element-f81fc56:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  padding: 3px;
+  background: linear-gradient(
+    45deg,
+    var(--e-global-color-primary),
+    var(--e-global-color-secondary)
+  );
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+} /* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-c93206b */
+.elementor-12 .elementor-element.elementor-element-c93206b .elementor-button {
+  background-color: transparent !important;
+  transition: all 0.3s ease-in;
+  position: relative;
+  border-radius: 100px !important;
+  overflow: hidden;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-c93206b
+  .elementor-button-content-wrapper {
+  z-index: 100;
+  position: relative;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-c93206b
+  .elementor-button:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 100px;
+  padding: 2px;
+  /* background: linear-gradient(
+    45deg,
+    var(--e-global-color-primary),
+    var(--e-global-color-secondary)
+  ); */
+  background: radial-gradient(
+    circle,
+    rgba(201, 171, 20, 1) 69%,
+    rgba(236, 225, 110, 1) 100%,
+    rgba(255, 254, 159, 1) 100%,
+    rgba(255, 254, 159, 1) 100%
+  );
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-c93206b
+  .elementor-button:after {
+  content: "";
+  display: flex;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 100%;
+  border-radius: 100px;
+  /* background: linear-gradient(
+    45deg,
+    var(--e-global-color-primary),
+    var(--e-global-color-secondary)
+  ); */
+  background: radial-gradient(
+    circle,
+    rgba(201, 171, 20, 1) 69%,
+    rgba(236, 225, 110, 1) 100%,
+    rgba(255, 254, 159, 1) 100%,
+    rgba(255, 254, 159, 1) 100%
+  );
+  transition: ease-in-out 300ms;
+}
+
+.elementor-12
+  .elementor-element.elementor-element-c93206b
+  .elementor-button:hover:after {
+  right: 0;
+} /* End custom CSS */
+/* Start custom CSS */
+html,
+body {
+  width: 100%;
+  max-width: 100vw;
+  overflow-x: hidden;
+} /* End custom CSS */
+/* Start Custom Fonts CSS */
+@font-face {
+  font-family: "SF UI Display";
+  font-style: normal;
+  font-weight: normal;
+  font-display: auto;
+  src: url("./font/sf-ui-display.woff") format("woff");
+}
+@font-face {
+  font-family: "SF UI Display";
+  font-style: normal;
+  font-weight: bold;
+  font-display: auto;
+  src: url("./font/sf-ui-display-bold.woff") format("woff");
+}
+@font-face {
+  font-family: "SF UI Display";
+  font-style: normal;
+  font-weight: 300;
+  font-display: auto;
+  src: url("./font/sf-ui-display-thin.woff") format("woff");
+}
+@font-face {
+  font-family: "SF UI Display";
+  font-style: normal;
+  font-weight: 100;
+  font-display: auto;
+  src: url("./font/sf-ui-display-ultralight.woff") format("woff");
+}
+/* End Custom Fonts CSS */
