@@ -38,7 +38,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: linear-gradient(190deg, #19142f 0%, #19142f 100%);
+  background-image: linear-gradient(190deg, #030303 0%, #030303 100%);
 }
 .elementor-12 .elementor-element.elementor-element-fc5fcc3,
 .elementor-12 .elementor-element.elementor-element-fc5fcc3::before {
@@ -421,7 +421,11 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: linear-gradient(174deg, #120e1e 0%, #0e101f 100%);
+  background-image: linear-gradient(
+    174deg,
+    rgb(245 0 0 / 40%) 0%,
+    #1a0505 100%
+  );
 }
 .elementor-12 .elementor-element.elementor-element-7bd041c,
 .elementor-12 .elementor-element.elementor-element-7bd041c::before {
@@ -659,7 +663,11 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: linear-gradient(180deg, #120e1e 0%, #0e101f 100%);
+  background-image: linear-gradient(
+    174deg,
+    rgb(245 0 0 / 40%) 0%,
+    #1a0505 100%
+  );
 }
 .elementor-12 .elementor-element.elementor-element-1202918,
 .elementor-12 .elementor-element.elementor-element-1202918::before {
@@ -711,7 +719,11 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: linear-gradient(180deg, #120e1e 0%, #0e101f 100%);
+  background-image: linear-gradient(
+    174deg,
+    rgb(245 0 0 / 40%) 0%,
+    #1a0505 100%
+  );
 }
 .elementor-12 .elementor-element.elementor-element-4ee988b,
 .elementor-12 .elementor-element.elementor-element-4ee988b::before {
@@ -763,7 +775,11 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: linear-gradient(180deg, #120e1e 0%, #0e101f 100%);
+  background-image: linear-gradient(
+    174deg,
+    rgb(245 0 0 / 40%) 0%,
+    #1a0505 100%
+  );
 }
 .elementor-12 .elementor-element.elementor-element-682b2be,
 .elementor-12 .elementor-element.elementor-element-682b2be::before {
@@ -815,7 +831,11 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: linear-gradient(180deg, #120e1e 0%, #0e101f 100%);
+  background-image: linear-gradient(
+    174deg,
+    rgb(245 0 0 / 40%) 0%,
+    #1a0505 100%
+  );
 }
 .elementor-12 .elementor-element.elementor-element-d30e3e2,
 .elementor-12 .elementor-element.elementor-element-d30e3e2::before {
@@ -867,7 +887,11 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: linear-gradient(180deg, #120e1e 0%, #0e101f 100%);
+  background-image: linear-gradient(
+    174deg,
+    rgb(245 0 0 / 40%) 0%,
+    #1a0505 100%
+  );
 }
 .elementor-12 .elementor-element.elementor-element-62f9bab,
 .elementor-12 .elementor-element.elementor-element-62f9bab::before {
@@ -1033,7 +1057,11 @@
   > .elementor-widget-container {
   padding: 2rem 2rem 2rem 2rem;
   background-color: transparent;
-  background-image: linear-gradient(180deg, #120e1e 0%, #0e101f 100%);
+  background-image: linear-gradient(
+    174deg,
+    rgb(245 0 0 / 40%) 0%,
+    #1a0505 100%
+  );
   border-radius: 10px 10px 10px 10px;
 }
 .elementor-12
@@ -1082,7 +1110,11 @@
   > .elementor-widget-container {
   padding: 2rem 2rem 2rem 2rem;
   background-color: transparent;
-  background-image: linear-gradient(180deg, #120e1e 0%, #0e101f 100%);
+  background-image: linear-gradient(
+    174deg,
+    rgb(245 0 0 / 40%) 0%,
+    #1a0505 100%
+  );
   border-radius: 10px 10px 10px 10px;
 }
 .elementor-12
@@ -1131,7 +1163,11 @@
   > .elementor-widget-container {
   padding: 2rem 2rem 2rem 2rem;
   background-color: transparent;
-  background-image: linear-gradient(180deg, #120e1e 0%, #0e101f 100%);
+  background-image: linear-gradient(
+    174deg,
+    rgb(245 0 0 / 40%) 0%,
+    #1a0505 100%
+  );
   border-radius: 10px 10px 10px 10px;
 }
 .elementor-12 .elementor-element.elementor-element-5b84024 .elementor-button {
@@ -1209,7 +1245,11 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: linear-gradient(174deg, #120e1e 0%, #0e101f 100%);
+  background-image: linear-gradient(
+    174deg,
+    rgb(245 0 0 / 40%) 0%,
+    #1a0505 100%
+  );
 }
 .elementor-12 .elementor-element.elementor-element-89f7573,
 .elementor-12 .elementor-element.elementor-element-89f7573::before {
@@ -1411,7 +1451,7 @@ body:not(.rtl)
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: linear-gradient(190deg, #19142f 0%, #19142f 100%);
+  background-image: linear-gradient(190deg, #030303 0%, #030303 100%);
 }
 .elementor-12 .elementor-element.elementor-element-d29f239,
 .elementor-12 .elementor-element.elementor-element-d29f239::before {
@@ -1669,7 +1709,7 @@ body.elementor-page-12:not(.elementor-motion-effects-element-type-background),
 body.elementor-page-12
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #19142f;
+  background-color: #030303;
 }
 @media (max-width: 1024px) {
   .elementor-12 .elementor-element.elementor-element-fc5fcc3 {
@@ -2143,12 +2183,19 @@ body.elementor-page-12
     var(--e-global-color-primary),
     var(--e-global-color-secondary)
   ); */
-  background: radial-gradient(
+  /* background: radial-gradient(
     circle,
     rgba(201, 171, 20, 1) 69%,
     rgba(236, 225, 110, 1) 100%,
     rgba(255, 254, 159, 1) 100%,
     rgba(255, 254, 159, 1) 100%
+  ); */
+  background: radial-gradient(
+    circle,
+    #c91d1d 69%,
+    #942222 100%,
+    #e40f0f 100%,
+    #f50000 100%
   );
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
@@ -2171,12 +2218,19 @@ body.elementor-page-12
     var(--e-global-color-primary),
     var(--e-global-color-secondary)
   ); */
-  background: radial-gradient(
+  /* background: radial-gradient(
     circle,
     rgba(201, 171, 20, 1) 69%,
     rgba(236, 225, 110, 1) 100%,
     rgba(255, 254, 159, 1) 100%,
     rgba(255, 254, 159, 1) 100%
+  ); */
+  background: radial-gradient(
+    circle,
+    #c91d1d 69%,
+    #942222 100%,
+    #e40f0f 100%,
+    #f50000 100%
   );
   transition: ease-in-out 300ms;
 }
@@ -2215,12 +2269,19 @@ body.elementor-page-12
     var(--e-global-color-primary),
     var(--e-global-color-secondary)
   ); */
-  background: radial-gradient(
+  /* background: radial-gradient(
     circle,
     rgba(201, 171, 20, 1) 69%,
     rgba(236, 225, 110, 1) 100%,
     rgba(255, 254, 159, 1) 100%,
     rgba(255, 254, 159, 1) 100%
+  ); */
+  background: radial-gradient(
+    circle,
+    #c91d1d 69%,
+    #942222 100%,
+    #e40f0f 100%,
+    #f50000 100%
   );
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
@@ -2243,12 +2304,19 @@ body.elementor-page-12
     var(--e-global-color-primary),
     var(--e-global-color-secondary)
   ); */
-  background: radial-gradient(
+  /* background: radial-gradient(
     circle,
     rgba(201, 171, 20, 1) 69%,
     rgba(236, 225, 110, 1) 100%,
     rgba(255, 254, 159, 1) 100%,
     rgba(255, 254, 159, 1) 100%
+  ); */
+  background: radial-gradient(
+    circle,
+    #c91d1d 69%,
+    #942222 100%,
+    #e40f0f 100%,
+    #f50000 100%
   );
   transition: ease-in-out 300ms;
 }
@@ -2271,9 +2339,10 @@ body.elementor-page-12
   width: 980px;
   height: 980px;
   border-radius: 986px;
-  background: #120e1e;
+  background: #f50000;
   filter: blur(500px);
   z-index: -1;
+  opacity: 0.1;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-1202918 */
 .elementor-12 .elementor-element.elementor-element-1202918:before {
@@ -2284,7 +2353,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-4ee988b */
 .elementor-12 .elementor-element.elementor-element-4ee988b:before {
@@ -2295,7 +2364,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-682b2be */
 .elementor-12 .elementor-element.elementor-element-682b2be:before {
@@ -2306,7 +2375,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-d30e3e2 */
 .elementor-12 .elementor-element.elementor-element-d30e3e2:before {
@@ -2317,7 +2386,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-62f9bab */
 .elementor-12 .elementor-element.elementor-element-62f9bab:before {
@@ -2328,7 +2397,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-1202918 */
 .elementor-12 .elementor-element.elementor-element-1202918:before {
@@ -2339,7 +2408,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-4ee988b */
 .elementor-12 .elementor-element.elementor-element-4ee988b:before {
@@ -2350,7 +2419,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-682b2be */
 .elementor-12 .elementor-element.elementor-element-682b2be:before {
@@ -2361,7 +2430,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-d30e3e2 */
 .elementor-12 .elementor-element.elementor-element-d30e3e2:before {
@@ -2372,7 +2441,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-62f9bab */
 .elementor-12 .elementor-element.elementor-element-62f9bab:before {
@@ -2383,7 +2452,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-1202918 */
 .elementor-12 .elementor-element.elementor-element-1202918:before {
@@ -2394,7 +2463,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-4ee988b */
 .elementor-12 .elementor-element.elementor-element-4ee988b:before {
@@ -2405,7 +2474,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-682b2be */
 .elementor-12 .elementor-element.elementor-element-682b2be:before {
@@ -2416,7 +2485,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-d30e3e2 */
 .elementor-12 .elementor-element.elementor-element-d30e3e2:before {
@@ -2427,7 +2496,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-62f9bab */
 .elementor-12 .elementor-element.elementor-element-62f9bab:before {
@@ -2438,7 +2507,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-1202918 */
 .elementor-12 .elementor-element.elementor-element-1202918:before {
@@ -2449,7 +2518,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-4ee988b */
 .elementor-12 .elementor-element.elementor-element-4ee988b:before {
@@ -2460,7 +2529,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-682b2be */
 .elementor-12 .elementor-element.elementor-element-682b2be:before {
@@ -2471,7 +2540,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-d30e3e2 */
 .elementor-12 .elementor-element.elementor-element-d30e3e2:before {
@@ -2482,7 +2551,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-62f9bab */
 .elementor-12 .elementor-element.elementor-element-62f9bab:before {
@@ -2493,7 +2562,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-1202918 */
 .elementor-12 .elementor-element.elementor-element-1202918:before {
@@ -2504,7 +2573,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-4ee988b */
 .elementor-12 .elementor-element.elementor-element-4ee988b:before {
@@ -2515,7 +2584,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-682b2be */
 .elementor-12 .elementor-element.elementor-element-682b2be:before {
@@ -2526,7 +2595,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-d30e3e2 */
 .elementor-12 .elementor-element.elementor-element-d30e3e2:before {
@@ -2537,7 +2606,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-62f9bab */
 .elementor-12 .elementor-element.elementor-element-62f9bab:before {
@@ -2548,7 +2617,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-1202918 */
 .elementor-12 .elementor-element.elementor-element-1202918:before {
@@ -2559,7 +2628,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-4ee988b */
 .elementor-12 .elementor-element.elementor-element-4ee988b:before {
@@ -2570,7 +2639,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-682b2be */
 .elementor-12 .elementor-element.elementor-element-682b2be:before {
@@ -2581,7 +2650,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-d30e3e2 */
 .elementor-12 .elementor-element.elementor-element-d30e3e2:before {
@@ -2592,7 +2661,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for container, class: .elementor-element-62f9bab */
 .elementor-12 .elementor-element.elementor-element-62f9bab:before {
@@ -2603,7 +2672,7 @@ body.elementor-page-12
   top: 0;
   left: 0;
   border-radius: 0;
-  background: #322b53;
+  background: #1a0505;
 } /* End custom CSS */
 /* Start custom CSS for nested-carousel, class: .elementor-element-d8b561b */
 .elementor-12 .elementor-element.elementor-element-d8b561b .swiper {
@@ -2684,9 +2753,10 @@ body.elementor-page-12
   width: 1286px;
   height: 1286px;
   border-radius: 1286px;
-  background: #120e1e;
+  background: #f50000;
   filter: blur(600px);
   z-index: -1;
+  opacity: 0.1;
 } /* End custom CSS */
 /* Start custom CSS for button, class: .elementor-element-5b84024 */
 .elementor-12 .elementor-element.elementor-element-5b84024 .elementor-button {
@@ -2717,12 +2787,19 @@ body.elementor-page-12
     var(--e-global-color-primary),
     var(--e-global-color-secondary)
   ); */
-  background: radial-gradient(
+  /* background: radial-gradient(
     circle,
     rgba(201, 171, 20, 1) 69%,
     rgba(236, 225, 110, 1) 100%,
     rgba(255, 254, 159, 1) 100%,
     rgba(255, 254, 159, 1) 100%
+  ); */
+  background: radial-gradient(
+    circle,
+    #c91d1d 69%,
+    #942222 100%,
+    #e40f0f 100%,
+    #f50000 100%
   );
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
@@ -2745,12 +2822,19 @@ body.elementor-page-12
     var(--e-global-color-primary),
     var(--e-global-color-secondary)
   ); */
-  background: radial-gradient(
+  /* background: radial-gradient(
     circle,
     rgba(201, 171, 20, 1) 69%,
     rgba(236, 225, 110, 1) 100%,
     rgba(255, 254, 159, 1) 100%,
     rgba(255, 254, 159, 1) 100%
+  ); */
+  background: radial-gradient(
+    circle,
+    #c91d1d 69%,
+    #942222 100%,
+    #e40f0f 100%,
+    #f50000 100%
   );
   transition: ease-in-out 300ms;
 }
@@ -2839,12 +2923,19 @@ body.elementor-page-12
     var(--e-global-color-primary),
     var(--e-global-color-secondary)
   ); */
-  background: radial-gradient(
+  /* background: radial-gradient(
     circle,
     rgba(201, 171, 20, 1) 69%,
     rgba(236, 225, 110, 1) 100%,
     rgba(255, 254, 159, 1) 100%,
     rgba(255, 254, 159, 1) 100%
+  ); */
+  background: radial-gradient(
+    circle,
+    #c91d1d 69%,
+    #942222 100%,
+    #e40f0f 100%,
+    #f50000 100%
   );
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
@@ -2867,12 +2958,19 @@ body.elementor-page-12
     var(--e-global-color-primary),
     var(--e-global-color-secondary)
   ); */
-  background: radial-gradient(
+  /* background: radial-gradient(
     circle,
     rgba(201, 171, 20, 1) 69%,
     rgba(236, 225, 110, 1) 100%,
     rgba(255, 254, 159, 1) 100%,
     rgba(255, 254, 159, 1) 100%
+  ); */
+  background: radial-gradient(
+    circle,
+    #c91d1d 69%,
+    #942222 100%,
+    #e40f0f 100%,
+    #f50000 100%
   );
   transition: ease-in-out 300ms;
 }
